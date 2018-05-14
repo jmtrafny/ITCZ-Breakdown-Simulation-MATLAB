@@ -23,7 +23,7 @@ There are two primary differences between this experiment and the previous one: 
 
 Since the scale of this experiment is much larger, the BVE must be modified. The form of the BVE used in the previous experiment as shown below:
  
- ![Alt text](relative/path/to/img.jpg?raw=true "Title")
+ ![Original BVE](img/1.jpg?raw=true "Title")
  
 There was one term used, the Jacobian. This term represents relative vorticity advection. Vorticity is the tendency to rotate about a point in space. The model shows the evolution of areas of vorticity. There is a relationship between vorticity and the magnitude of wind speeds (the strength) of cyclones. However, it is not a direct relationship.
 
